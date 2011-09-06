@@ -3,7 +3,6 @@ App::import('Sanitize');
 class PastesController extends AppController {
 
 	var $name = 'Pastes';
-    var $helpers = array('Geshi.Geshi');
     
     function beforeFilter() {
         $this->set('latestpastes', $this->_latest_pastes());
