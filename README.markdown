@@ -5,8 +5,11 @@ A simple, CakePHP based application, ideal for a personal Pastebin, comes comple
 MikeyPaste installation instructions:
 
 1] Edit  ```/app/config/database.php``` and add your database details.
+
 2] Upload ```/app/config/database/schema.sql``` to your database server and import it.
+
 3] Upload all the files to your server.
+
 
 Enjoy.
 
