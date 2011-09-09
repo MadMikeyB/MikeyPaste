@@ -1,22 +1,22 @@
-#README#
+# README #
 
 A simple, CakePHP based application, ideal for a personal Pastebin, comes complete with the ability to password protect pastes, and cool short URL's.
 
 MikeyPaste installation instructions:
 
-1] Edit /app/config/database.php and add your database details.
-2] Upload /app/config/database/schema.sql to your database server and import it.
+1] Edit  ```/app/config/database.php``` and add your database details.
+2] Upload ```/app/config/database/schema.sql``` to your database server and import it.
 3] Upload all the files to your server.
 
 Enjoy.
 
-#Styling#
+# Styling #
 
-All CSS is in /app /webroot/css - IMPORTANT, you will need to edit /app/views/layouts/default.ctp and edit the line which points to the CSS file.
+All CSS is in ```/app /webroot/css``` - IMPORTANT, you will need to edit ```/app/views/layouts/default.ctp``` and edit the line which points to the CSS file.
 
-The "Wrapper" file is in /app/views/layouts/default.ctp - you should only need to edit this file. (if you need to)
+The "Wrapper" file is in ```/app/views/layouts/default.ctp``` - you should only need to edit this file. (if you need to)
 
-#License# 
+# License # 
 
 Copyright (c) 2011, Michael Burton
 All rights reserved.
