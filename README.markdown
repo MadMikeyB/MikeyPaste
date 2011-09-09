@@ -19,7 +19,7 @@ All CSS is in ```/app /webroot/css``` - IMPORTANT, you will need to edit ```/app
 
 The "Wrapper" file is in ```/app/views/layouts/default.ctp``` - you should only need to edit this file. (if you need to)
 
-# License # 
+# License #
 
 Copyright (c) 2011, Michael Burton
 All rights reserved.
